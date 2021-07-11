@@ -68,6 +68,7 @@ namespace day_3
 
             foreach ( char letter in mystring) // синтаксис делится на до ИН и после ИН. После ИН - по какой коллекции надо идтию Перед Ин - переменная которая представляет каждый отдельный символ в строке и назвали мы его леттер
             // в данном цыкле не видно в явном виде итерации - но они есть
+            // Iam checking functionality of gitHub site
             {
                 Console.WriteLine(letter);
                 
